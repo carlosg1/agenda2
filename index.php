@@ -11,6 +11,8 @@
 <body bgcolor="#000000" background="imagen/backgrndlogin.jpg" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <script language="JavaScript" type="text/javascript">
 		//---------------------------------------------------------------------------------
+		// este es un comentario para el GIThub
+		//------------------------------------
 		function f_ingresar_al_sistema()
 		{
 		      // verifico que los campos no esten en blanco
